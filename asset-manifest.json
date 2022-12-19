@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keeperclone/static/css/main.7ae1db2a.css",
+    "main.js": "/keeperclone/static/js/main.4bea4fc0.js",
+    "index.html": "/keeperclone/index.html",
+    "main.7ae1db2a.css.map": "/keeperclone/static/css/main.7ae1db2a.css.map",
+    "main.4bea4fc0.js.map": "/keeperclone/static/js/main.4bea4fc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae1db2a.css",
+    "static/js/main.4bea4fc0.js"
+  ]
+}
