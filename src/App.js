@@ -7,12 +7,7 @@ import Search from "./components/Search/Search";
 import Header from "./components/Header/Header";
 
 function App() {
-  const [notes, setNotes] = useState([
-    { text: "This is my first note", date: "15/04/2022", id: nanoid() },
-    { text: "This is my second note", date: "16/04/2022", id: nanoid() },
-    { text: "This is my third note", date: "17/04/2022", id: nanoid() },
-    { text: "This is my fourth note", date: "18/04/2022", id: nanoid() },
-  ]);
+  const [notes, setNotes] = useState([]);
   const [searchText, setSearchText] = useState("");
   const [theme, setTheme] = useState("light");
   function addNotes(text) {
